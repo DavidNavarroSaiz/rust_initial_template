@@ -1,6 +1,1 @@
-# rust-new-project-template
-A good starting point for a new Rust project
-
-## References
-
-* [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
+[![Tests](https://github.com/DavidNavarroSaiz/rust_initial_template/actions/workflows/tests.yml/badge.svg)](https://github.com/DavidNavarroSaiz/rust_initial_template/actions/workflows/tests.yml)
